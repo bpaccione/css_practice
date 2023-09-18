@@ -46,8 +46,8 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom-style: solid;
+    border-left-style: solid;
 }
 
 .blue{
